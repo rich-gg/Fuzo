@@ -2,10 +2,7 @@
 ////           Fuzo has been designed and coded         ////
 ////                  by and for rich.gg                ////
 ////                 June the 17th of 2017              ////
-////                 all rights reserved                ////
-////                                                    ////
-////         ...at least until I'm rich enough          ////
-////              to have my bicycle fixed              ////
+////                  all rights reversed               ////
 ////////////////////////////////////////////////////////////
 var cnv;
 var richLogo;
